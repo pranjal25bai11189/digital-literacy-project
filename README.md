@@ -30,7 +30,7 @@ In this module, I explored common cyber threats, focusing on UPI/Online Payment 
 
 🚨 Report cybercrime: https://cybercrime.gov.in 📞 Helpline: 1930 📁 Folder: task-5-cybercrime/
 
-## 📂 Repository Structure
+## Repository Structure
 Digital-Literacy/
 ├── README.md
 ├── report/
@@ -45,5 +45,5 @@ Digital-Literacy/
 Google Form Quiz: https://forms.gle/ugJd1CwRRkiK7Dcr9
 Cyber Crime Portal: https://cybercrime.gov.in
 
-##✅ Conclusion
+## Conclusion
 This project helped me develop practical digital skills that are essential for students in today’s technology-driven world. From creating a professional online identity to understanding cybersecurity risks, each module contributed to improving my overall digital awareness and responsibility.
