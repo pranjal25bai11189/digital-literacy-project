@@ -1,5 +1,4 @@
-\# Stay Safe Online – Prevention Checklist
-
+# Stay Safe Online – Prevention Checklist
 
 
 1. Never share your UPI PIN, OTP, or banking details with anyone.
@@ -13,14 +12,14 @@
 
 
 
-\## UPI / Financial Safety Tips
+## UPI / Financial Safety Tips
 
 1. Always double-check the receiver’s name before sending money.
 2. Remember: You do NOT need to enter your UPI PIN to receive money.
 
 
 
-\## Reporting Cybercrime
+## Reporting Cybercrime
 
 1. Report incidents at: https://cybercrime.gov.in
 2. Helpline Number: 1930
