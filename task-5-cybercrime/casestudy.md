@@ -1,4 +1,4 @@
-\# Case Study: UPI/Online Payment Fraud
+# Case Study: UPI/Online Payment Fraud
 
 
 
@@ -6,7 +6,7 @@ UPI (Unified Payments Interface) fraud is a common type of cybercrime where atta
 
 
 
-\## How the Fraud Happens
+## How the Fraud Happens
 
 
 
@@ -14,7 +14,7 @@ A typical UPI fraud begins when a victim receives a call, SMS, or message claimi
 
 
 
-\## Example Scenario
+## Example Scenario
 
 
 
@@ -22,7 +22,7 @@ For example, a college student received a call from someone pretending to be a b
 
 
 
-\## Targets and Consequences 
+## Targets and Consequences 
 
 
 
